@@ -23,6 +23,8 @@ Eğer bağlantı varsa, "Bağlandı" mesajı görüntülenir; aksi halde "Bağla
 
 ## Basitce Socket.io Hakkında
 
+![bidirectional-communication2](https://github.com/umutdemr/socketio-practice/assets/84879807/8eee2ddb-fb5c-4487-8354-daf1d5e765a8)
+
 - Gerçek Zamanlı İletişim:
 
 Socket.io, web uygulamalarında gerçek zamanlı iletişim sağlar. Bu, kullanıcıların anlık olarak veri alışverişi yapabileceği, değişikliklerin hemen diğer kullanıcılara yansıtılabileceği bir iletişim mekanizması sunar.
